@@ -1,0 +1,14 @@
+/* Academic minimalism */
+
+.wrapper {
+  max-width: 820px;
+}
+
+.site-title {
+  font-weight: 700;
+}
+
+nav a {
+  margin-right: 14px;
+  font-weight: 500;
+}

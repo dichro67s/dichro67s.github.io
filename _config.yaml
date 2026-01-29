@@ -1,0 +1,14 @@
+title: "David Donghoon Hyeon"
+description: "Mathematics, Computation, and Complexity"
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
+url: "https://dhyeon.github.io"
+baseurl: ""
+
+minima:
+  skin: auto
